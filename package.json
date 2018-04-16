@@ -1,0 +1,23 @@
+{
+  "name": "js-tdd-course",
+  "version": "1.0.0",
+  "description": "Biblioteca do curso de JS TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "tdd"
+  ],
+  "author": "Gideão Silva <gideaoms@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gideaoms/js-tdd-course.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gideaoms/js-tdd-course/issues"
+  },
+  "homepage": "https://github.com/gideaoms/js-tdd-course#readme"
+}
