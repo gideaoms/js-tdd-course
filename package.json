@@ -18,7 +18,7 @@
   },
   "husky": {
     "hooks": {
-      "pre-push": "npm run lint && npm run test:coverage"
+      "pre-push": "npm run test:coverage"
     }
   },
   "keywords": [
